@@ -10,13 +10,13 @@
 
 Você deve criar uma api com um endpoint que liste os itens do arquivo cars.json
 
-o usuário deve visualizar 2 opções na tela inicial,
-- cadastrar novo anúncio
-- visualizar anúncios 
+# o usuário deve visualizar 2 opções na tela inicial,
+* cadastrar novo anúncio
+* visualizar anúncios 
 
 
-- cadastrar novo anúncio
-você deve criar um endpoint para listar os modelos de carros disponíveis (cars.json)
+# cadastrar novo anúncio
+* você deve criar um endpoint para listar os modelos de carros disponíveis (cars.json)
 após selecionar o modelo de carro desejado, o usuário deve preencher manualmente informações como:
  - ano do modelo
  - valor de venda
