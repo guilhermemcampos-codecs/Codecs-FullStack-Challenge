@@ -65,7 +65,7 @@ após salvar esses dados, o usuário deve ser levado para a tela de listagem de 
 
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extras.
 
-  
+* Você deve documentar toda a API utilizando o Swagger
 
 Não esqueça da otimização de velocidade da App nem da experiência do usuário.
 
@@ -74,11 +74,8 @@ Não esqueça da otimização de velocidade da App nem da experiência do usuár
 
 ## Avaliação
 
-  
 
 Entre os critérios de avaliação estão:
-
-  
 
 * Usabilidade
 
